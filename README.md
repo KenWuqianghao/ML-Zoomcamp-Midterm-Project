@@ -1,6 +1,6 @@
 # ML-Zoomcamp-Midterm-Project
 
-##Problem & Objective
+## Problem & Objective
 In this project, I created a regression model predicitng the number of bike rented duirng a specific hour in London through information including temperature, wind speed, time, humidity, holiday, weather code and season. This model will produce a numerical output predicint how many bikes will be rented so the bike providers can distribute these bikes more wisely for maximum profit and usage. The dataset can be found [here](https://www.kaggle.com/hmavrodiev/london-bike-sharing-dataset).
 
 ## How to Use this Model in a Virtual Environment
