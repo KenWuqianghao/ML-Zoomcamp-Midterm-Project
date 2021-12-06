@@ -10,7 +10,7 @@ In this project, I created a regression model predicitng the number of bike rent
 pipenv install
 ```
 3. Activate pipenv environment using
-```bash
+```python
 pipenv shell
 ```
 4. Run predict.py
