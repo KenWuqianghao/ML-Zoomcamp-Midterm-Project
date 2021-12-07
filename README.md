@@ -19,7 +19,7 @@ pipenv shell
 ## How to Deploy to Docker
 1. cd into the directory and create the docker image using
 ```docker
-docker built -t bike-count .
+docker build -t bike-count .
 ```
 2. Run the image by using
 ```docker
